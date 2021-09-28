@@ -1,0 +1,15 @@
+img {
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+}
+p{
+    font-family: 'Playfair Display', serif;
+    font-size: xx-large;
+    margin-left: 1.66%;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-bottom: 3px solid grey;
+    width: 30%;
+
+}
